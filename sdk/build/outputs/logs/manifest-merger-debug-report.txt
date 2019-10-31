@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:3:7-27
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:5:7-34
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:4:7-33
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
+uses-sdk
+ADDED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:7:5-47
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:7:5-47
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:7:5-47
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:7:5-47
+INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:7:15-44
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
+		ADDED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml:7:5-47
+		INJECTED from /home/dj/Music/MyApplication/sdk/java/AndroidManifest.xml
